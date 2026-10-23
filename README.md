@@ -1,1 +1,1 @@
-Under construction
+The code named CleatsPy is intended to evaluate forces in high-voltage cable cleats and cables during normal steady-state conditions and transient events. Under short-circuit conditions, currents in the cables reach very high values and, due to the close proximity of the cables, high electromagnetic forces act between the conductors. To make an informed decision during cable system design or cable cleat design, the software tool can be used to help. The basic steps for using it are described in the short tutorial titled cleatsPy_shortTutorial.pdf.
